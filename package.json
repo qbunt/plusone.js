@@ -1,0 +1,31 @@
+{
+  "name": "plusone.js",
+  "version": "1.0.0",
+  "description": "This was part of library for controlling PNG sprite playback. It simply loops inside a range, increments/decrements inside that range.",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-node": "^1.14.5",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qbunt/plusone.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbunt/plusone.js/issues"
+  },
+  "homepage": "https://github.com/qbunt/plusone.js#readme"
+}
